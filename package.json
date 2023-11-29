@@ -16,7 +16,7 @@
     "serve": "source .env.$STAGE && sls webpack serve"
   },
   "dependencies": {
-    "coinbase": "^2.0.6"
+    "coinbase": "^2.0.8"
   },
   "devDependencies": {
     "aws-sdk": "^2.66.0",
